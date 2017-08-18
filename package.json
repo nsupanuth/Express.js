@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7",
+    "mysql": "^2.14.1"
+  },
+  "main": "./src/entry",
+  "scripts": {
+    "serv": "nodemon ."
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "babel-register": "^6.24.1"
+  }
+}
